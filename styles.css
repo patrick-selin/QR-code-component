@@ -1,0 +1,75 @@
+:root {
+--white: hsl(0, 0%, 100%);
+--light-gray: hsl(212, 45%, 89%);
+--grayish-blue: hsl(220, 15%, 55%);
+--dark-blue: hsl(218, 44%, 22%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+p {
+  margin: 0;
+  padding : 0;
+}
+
+body {
+  min-height: 100vh;  
+  line-height: 1.5;
+  background-color: var(--light-gray);
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 1.3rem;
+  margin: 1.3rem 1.0rem 0.7rem 1.0rem;
+  color: var(--dark-blue);
+  text-align: center;
+}
+
+p {
+  font-size: 0.92rem;
+  color: var(--grayish-blue);
+  text-align: center;
+  margin: 0.1rem 1.0rem 1.0rem 1.0rem;
+}
+
+main {
+  display:flex;
+  flex-direction: column;  
+  background-color: var(--white);
+  margin: 0 auto;  
+}
+
+.container {  
+  max-width: 320px;
+  border: 1px solid transparent;
+  border-radius: 15px;
+  padding: 15px;  
+}
+
+/*
+
+The designs were created to the 
+following widths:
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+#
