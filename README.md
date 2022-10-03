@@ -10,18 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
-https://drive.google.com/file/d/1RTeTWqSMy1VB7D5QlenGR-fXXgndtuKS/view?usp=sharing
-![](./screenshot.jpg)
+(https://github.com/patrick-selin/QR-code-component/blob/master/qr-code-component-solution.png)
 
 Add a screenshot of your solution. 
 
