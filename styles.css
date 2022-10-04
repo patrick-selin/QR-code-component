@@ -19,7 +19,7 @@ p {
 }
 
 body {
-  min-height: 100vh;  
+  min-height: 100%;  
   line-height: 1.5;
   background-color: var(--light-gray);
   font-family: 'Outfit', sans-serif;
